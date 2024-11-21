@@ -8,8 +8,8 @@ public class MetodosAct3 {
 	}
 
 	public static void numerosAleatorios() {
-		//int numeroRandom =0;
-		final int MAXIMO = 20;
+		
+		final int MAXIMO = 30; //Cambio 20 por 30
 		int [] cadenaNumeros = new int [MAXIMO];
 		for(int i =0;i<cadenaNumeros.length;i++) {
 			int numeroRandom = (int) ((Math.random()*10)+1);
