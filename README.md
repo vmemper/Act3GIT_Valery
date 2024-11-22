@@ -16,4 +16,8 @@ Una opción que nos da Eclipse para trabajar en conjunto con Git
 
 <a href="https://docs.google.com/document/d/1Akrf-Vl3kegBVOMqrNECYdraFWebdiGs4zAnRa-t-kE/edit?usp=sharing"> Link al documento</a>
 
-(Documento en continuo cambio)
+**Finalmente hemos creado:**
++ Un proyecto que te pide tres numeros por pantalla y al primer valor le suma 7
+hasta ser menor o igual que el segundo, también indica si el tercer valor esta entre
+el primer valor y el segundo.
++ Y un método que te una lista de 30 numeros aleatorios
